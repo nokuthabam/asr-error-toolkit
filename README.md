@@ -1,5 +1,5 @@
 # ASR Error Toolkit
-[![Python Tests](https://github.com/nokuthabam/asr-error-toolkit/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/nokuthabam/asr-error-toolkit/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/nokuthabam/asr-error-toolkit/graph/badge.svg?token=62XFXXU1WE)](https://codecov.io/gh/nokuthabam/asr-error-toolkit)
 
 A lightweight Python toolkit for evaluating Automatic Speech Recognition (ASR) output through transcript normalisation, Word Error Rate (WER), Character Error Rate (CER), and word-level error alignment.
 
