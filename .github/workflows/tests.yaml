@@ -31,7 +31,7 @@ jobs:
           python -m pytest -v \
             --cov=asr_error_toolkit \
             --cov-report=term-missing \
-            --cov-report=xml
+            --cov-report=xml \
             --junitxml=junit.xml
             
       - name: Upload coverage to Codecov
